@@ -3,7 +3,7 @@ module github.com/HFO4/gbc-in-cloud
 go 1.12
 
 require (
-	github.com/faiface/beep v1.0.1
+	github.com/faiface/beep v1.0.2
 	github.com/faiface/glhf v0.0.0-20181018222622-82a6317ac380 // indirect
 	github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3 // indirect
 	github.com/faiface/pixel v0.8.0
